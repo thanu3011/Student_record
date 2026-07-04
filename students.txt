@@ -1,0 +1,24 @@
+Student ID: 101
+Name: Rahul
+Age: 20
+Email: rahul@gmail.com
+Course: Python
+------------------------
+Student ID: 12
+Name: jaswanth
+Age: 20
+Email: jaswanth1916s@gmail.com
+Course: python
+------------------------
+Student ID: 12
+Name: jaswanth
+Age: 20
+Email: jaswanth@gmail.com
+Course: cse
+------------------------
+Student ID: 101
+Name: Thanu Sree
+Age: 20
+Email: thanusreechinnam@gmail.com
+Course: FSD
+------------------------
